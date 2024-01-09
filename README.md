@@ -18,4 +18,5 @@ As a memeber:
 - [MMSIG] Add the ovdet algorithm to the mmdet projects(https://github.com/open-mmlab/mmdetection/pull/11217)
 - [InternLM-tutorial] (https://github.com/InternLM/tutorial.git)
 
-![1](https://github.com/Shengshenlan/Shengshenlan/assets/57640594/94c456f7-cfce-4bf9-9501-308ce3eaf5ee)
+![1](https://github.com/Shengshenlan/Shengshenlan/assets/57640594/6a3e938f-43ac-40df-a00d-599980e4e0ba)
+
