@@ -16,7 +16,7 @@ As a memeber:
 - [CodeCamp2023-488] Add new configuration files for SoftTeacher algorithm in mmdetection. (https://github.com/open-mmlab/mmdetection/pull/10856)
 - [MMSIG] MMDet 新 config 体验与适配(https://github.com/open-mmlab/mmdetection/pull/11113)
 - [MMSIG] Add the ovdet algorithm to the mmdet projects(https://github.com/open-mmlab/mmdetection/pull/11217)
-- [InternLM-tutorial] (https://github.com/InternLM/tutorial.git)
+- [InternLM-tutorial] (https://github.com/InternLM/tutorial/pull/253)
 
 ![1](https://github.com/Shengshenlan/Shengshenlan/assets/57640594/6a3e938f-43ac-40df-a00d-599980e4e0ba)
 
