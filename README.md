@@ -1,6 +1,3 @@
-## Hi, There
-My ![Visitor Count](https://profile-counter.glitch.me/Shengshenlan/count.svg) Visitor.
-
 ## About me
 🌱 I'm a graduate student, studying in Hubei University of Automotive Technology (HUAT).
 
