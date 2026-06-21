@@ -21,6 +21,3 @@ My ![Visitor Count](https://profile-counter.glitch.me/Shengshenlan/count.svg) Vi
 
 **As a manager** ：
 - [ITCWM] (https://github.com/Shengshenlan/ITCWM-exe))
-  
-![1](https://github.com/Shengshenlan/Shengshenlan/assets/57640594/6a3e938f-43ac-40df-a00d-599980e4e0ba)
-
