@@ -1,33 +1,33 @@
-## 👋 你好，我是祝岚
+## 👋 Hi, I'm Zhu Lan
 
-Python / AI 开发工程师，目前在江西云眼视界从事 Agent 应用开发，此前在梦创双杨公司负责 AI 中台与 LLM 应用编排后端的研发。关注大模型应用落地、AI Agent 架构，以及昇腾 NPU 上的模型部署。
+Python / AI developer. I currently build AI agent applications at Jiangxi Yunyan Shijie, and previously led backend development of an AI platform and LLM application orchestration system at Mengchuang Shuangyang. I focus on shipping LLM applications, AI agent architecture, and model deployment on Ascend NPUs.
 
-📫 邮箱：1124477365@qq.com
+📫 Email: zhu05361@gmail.com
 
-## 🛠 技术栈
+## 🛠 Tech Stack
 
-- **语言与框架**：Python、FastAPI、asyncio、Pydantic、LangChain、pytest
-- **大模型**：LLM 部署与优化、Embedding / Rerank、SFT 微调、RAG、vLLM / vllm-ascend
-- **Agent**：主从式 Agent、异步子 Agent、MCP / FastMCP 工具接入
-- **工程与基础设施**：Linux、Docker、Git、Redis、MySQL、昇腾 NPU / CANN
+- **Languages & frameworks**: Python, FastAPI, asyncio, Pydantic, LangChain, pytest
+- **LLMs**: LLM deployment & optimization, Embedding / Rerank, SFT fine-tuning, RAG, vLLM / vllm-ascend
+- **Agents**: Orchestrator–worker agents, async sub-agents, MCP / FastMCP tool integration
+- **Engineering & infrastructure**: Linux, Docker, Git, Redis, MySQL, Ascend NPU / CANN
 
-## 🚀 做过的项目
+## 🚀 Projects
 
-- **投标写作智能体**：覆盖材料分析、写作计划、章节生成到 Word 交付的写作 Agent，v0.1 已上线并有实际用户。
-- **LLM 应用编排平台**：基于 FastAPI 的配置驱动后端，支持 DAG 工作流并行编排、插件化扩展、MCP 动态工具、SSE 流式输出和上下文记忆。
-- **进博士 AI 智能助手（智能问答模块）**：在昇腾 NPU 上部署 Embedding / Rerank，基于 Qwen2.5-0.5B 训练意图分类模型，相比 qwen-max 方案速度提升 32.1%、准确率提升 21.4%。
-- **[vllm-ascend-setup](https://github.com/Shengshenlan/vllm-ascend-setup)**：昇腾 NPU 上 vLLM 开发环境的自动化搭建脚本与排错指南。
-- **[husk](https://github.com/Shengshenlan/husk)**：轻量级的 Agent 沙箱服务。
+- **Bid-writing agent**: An agent that covers material analysis, writing plans, chapter generation, and Word document delivery. v0.1 is live with real users.
+- **LLM application orchestration platform**: A config-driven FastAPI backend with parallel DAG workflow execution, a plugin system, dynamic MCP tools, SSE streaming, and conversation memory.
+- **Jinboshi AI Assistant (Q&A module)**: Deployed Embedding / Rerank models on Ascend NPUs and trained an intent classifier on Qwen2.5-0.5B, which is 32.1% faster and 21.4% more accurate than the previous qwen-max approach.
+- **[vllm-ascend-setup](https://github.com/Shengshenlan/vllm-ascend-setup)**: Automation scripts and a troubleshooting guide for setting up a vLLM development environment on Ascend NPUs.
+- **[husk](https://github.com/Shengshenlan/husk)**: A lightweight agent sandbox server.
 
-## 🌱 开源经历
+## 🌱 Open Source
 
-- [InternLM-tutorial] 书生·浦语大模型实战营课程文档编写与助教（[PR #253](https://github.com/InternLM/tutorial/pull/253)）
-- [CodeCamp2023-488] 为 mmdetection 的 SoftTeacher 算法添加新配置文件（[PR #10856](https://github.com/open-mmlab/mmdetection/pull/10856)）
-- [MMSIG] MMDet 新 config 体验与适配（[PR #11113](https://github.com/open-mmlab/mmdetection/pull/11113)）
-- [MMSIG] 将 ovdet 算法加入 mmdet projects（[PR #11217](https://github.com/open-mmlab/mmdetection/pull/11217)）
+- [InternLM-tutorial] Wrote course docs and served as a teaching assistant for the InternLM LLM bootcamp ([PR #253](https://github.com/InternLM/tutorial/pull/253))
+- [CodeCamp2023-488] Added new configuration files for the SoftTeacher algorithm in mmdetection ([PR #10856](https://github.com/open-mmlab/mmdetection/pull/10856))
+- [MMSIG] Tested and adapted MMDet's new config system ([PR #11113](https://github.com/open-mmlab/mmdetection/pull/11113))
+- [MMSIG] Added the ovdet algorithm to mmdet projects ([PR #11217](https://github.com/open-mmlab/mmdetection/pull/11217))
 
-## 🎓 教育背景
+## 🎓 Education
 
-- 湖北汽车工业学院，电子信息（计算机技术）硕士，2022 – 2025
-- 湖北大学知行学院，计算机科学学士，2018 – 2022
-- 瓦萨应用科技大学，信息工程交换生，2019
+- Hubei University of Automotive Technology, M.Eng. in Electronic Information (Computer Technology), 2022 – 2025
+- Hubei University Zhixing College, B.Eng. in Computer Science, 2018 – 2022
+- Vaasa University of Applied Sciences, exchange student in Information Engineering, 2019
